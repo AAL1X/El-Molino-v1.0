@@ -155,4 +155,3 @@ Don't forget to give the project a star! Thanks for contributing!
   <a href="https://www.linkedin.com/in/leonardo-bravo-4120b8228/"><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
