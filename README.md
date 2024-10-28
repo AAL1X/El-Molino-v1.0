@@ -1,5 +1,5 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <a id="readme-top"></a>
-
 <p align='center'> 
   <img alt="GitHub Repo contributors" src="https://img.shields.io/github/contributors/AAL1X/El_Molino-v1.0?style=for-the-badge">&nbsp;
   <img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/AAL1X/El_Molino-v1.0?style=for-the-badge">&nbsp;
@@ -11,19 +11,19 @@
 <br>
 <div align="center">
    <img src="assets/images/logo.png" alt="Logo">
-  <h3 align="center">El-MOLINO-v1.0</h3>
-  <p align="center">
-    An incredible visual and fun console GAME
-    <br>
-    <a href="https://github.com/AAL1X/El_Molino-v1.0"><strong>Explore the docs »</strong></a>
-    <br>
-    <br>
-    <a href="https://github.com/AAL1X/El_Molino-v1.0">View Demo</a>
-    ·
-    <a href="https://github.com/AAL1X/AAL1X/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/AAL1X/AAL1X/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
+   <h3 align="center">El-MOLINO-v1.0</h3>
+   <p align="center">
+     An incredible visual and fun console GAME
+     <br>
+     <a href="https://github.com/AAL1X/El_Molino-v1.0"><strong>Explore the docs »</strong></a>
+     <br>
+     <br>
+     <a href="https://github.com/AAL1X/El_Molino-v1.0">View Demo</a>
+     ·
+     <a href="https://github.com/AAL1X/AAL1X/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+     ·
+     <a href="https://github.com/AAL1X/AAL1X/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+   </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -43,25 +43,27 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+<br>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-<img rel="icon" src="assets/images/el_molino.png" type="pmg">
+***About The Project***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-El Molino es un juego de consola desarrollado en C++ que explora gráficos detallados en un entorno clásico de consola. Este proyecto fue creado con el objetivo de brindar una experiencia nostálgica y visualmente atractiva, aprovechando el poder de los gráficos en ASCII.
+<div align="center">
+  <img rel="icon" src="assets/images/el_molino.png" type="pmg">
+</div>
+
+El Molino is a console game developed in C++ that explores detailed graphics in a classic console environment. This project was created with the goal of providing a nostalgic and visually appealing experience, taking advantage of the power of ASCII graphics.
 
 Here's why:
 * My motivation for creating "El Molino" was to offer a classic game with detailed graphics, while improving my development skills.
 * This game combines strategy and intelligence in a challenging console format, ideal for taking on a friend and testing your skills.
 
 Of course, this is a trial version. In future updates, I will optimize the code to improve the gaming experience.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -70,8 +72,24 @@ Of course, this is a trial version. In future updates, I will optimize the code 
 * ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+***Important Notices***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+> [!NOTE]  
+> To install and run "El Molino", make sure you have the following:
+> 
+> | Requirement        | Description                                                                                       |
+> |--------------------|---------------------------------------------------------------------------------------------------|
+> | Operative System    | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=black)  |
+> | IDE                | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white&color=black) |
+> | Framework          | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&color=black)              |
+ 
+> [!IMPORTANT]\
+> We are a small team, but we are committed to improving "El Molino". Expect continuous updates to improve performance, graphics and gameplay.
+
 <!-- GETTING STARTED -->
-## Getting Started
+***Getting Started***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 These are instructions on how to configure your project locally. To get a local copy up and running, follow these simple example steps.
 
 ### Prerequisites
@@ -106,24 +124,9 @@ you can compile the main file. Make sure you include all necessary files.
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTRIBUTING -->
-## Contributing
+***Contributing***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 Contributions are what make the open source community an amazing place to learn, be inspired, and create. Any contribution you wish to make is very welcome!
 
 If you have a suggestion to improve the project, you can fork the repository and open a pull request.
@@ -134,12 +137,14 @@ Don't forget to give the project a star! Thanks for contributing!
 3. Make your changes and commit (`'git commit -m 'Add New Improvement'`).
 4. Push your changes to the branch (`git push origin feature/NewImprovement`).
 5. Open a pull request.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Top contributors:
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTACT -->
-## Contact
+***Contact***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <a href="mailto:leonardobravoricapa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.instagram.com/leonm.br"><img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
@@ -147,3 +152,4 @@ Don't forget to give the project a star! Thanks for contributing!
   <a href="https://www.linkedin.com/in/leonardo-bravo-4120b8228/"><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
