@@ -86,6 +86,7 @@ Of course, this is a trial version. In future updates, I will optimize the code 
  
 > [!IMPORTANT]\
 > We are a small team, but we are committed to improving "El Molino". Expect continuous updates to improve performance, graphics and gameplay.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ***Getting Started***
@@ -139,7 +140,9 @@ Don't forget to give the project a star! Thanks for contributing!
 5. Open a pull request.
 
 ### Top contributors:
-
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/134979957?v=4" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; border: 2px solid #000;">
+</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
