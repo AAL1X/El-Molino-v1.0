@@ -141,7 +141,7 @@ Don't forget to give the project a star! Thanks for contributing!
 
 ### Top contributors:
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/134979957?v=4" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; border: 2px solid #000;">
+  <a href="https://github.com/MichaelVL2023"><img src="https://avatars.githubusercontent.com/u/134979957?v=4" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; border: 2px solid #000;"/></a>
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
