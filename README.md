@@ -1,6 +1,7 @@
+
+<a id="readme-top"></a>
 <!-- SHIELDS -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<a id="readme-top"></a>
 <p align='center'> 
   <img alt="GitHub Repo contributors" src="https://img.shields.io/github/contributors/AAL1X/El_Molino-v1.0?style=for-the-badge">&nbsp;
   <img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/AAL1X/El_Molino-v1.0?style=for-the-badge">&nbsp;
@@ -71,9 +72,10 @@
 El Molino is a console game developed in C++ that explores detailed graphics in a classic console environment. This project was created with the goal of providing a nostalgic and visually appealing experience, taking advantage of the power of ASCII graphics.
 
 Here's why:
+
 * My motivation for creating "El Molino" was to offer a classic game with detailed graphics, while improving my development skills.
 * This game combines strategy and intelligence in a challenging console format, ideal for taking on a friend and testing your skills.
-
+  
 Of course, this is a trial version. In future updates, I will optimize the code to improve the gaming experience.
 
 <a id="built-with"></a> 
@@ -84,6 +86,7 @@ Of course, this is a trial version. In future updates, I will optimize the code 
 * ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- IMPORTANT NOTICES -->
 <a id="important-notices"></a>***Important Notices***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
