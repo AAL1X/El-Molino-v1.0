@@ -31,7 +31,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="***About The Project***">About The Project</a>
+      <a href="#about-the-proyect">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -50,7 +50,7 @@
 <br>
 
 <!-- ABOUT THE PROJECT -->
-***About The Project***
+<a id="about-the-proyect"></a>***About The Project***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
