@@ -35,9 +35,11 @@
       <a href="#about-the-proyect">About The Project</a>
       <ul>
         <li>
-          <a href="#built-with">Built With</a></li>
+          <a href="#built-with">Built With</a>
+        </li>
       </ul>
     </li>
+    <li><a href="#important-notices">Important Notices</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -45,7 +47,14 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li>
+      <a href="#contributing">Contributing</a>
+      <ul>
+        <li>
+          <a href="#top-contributors">Built With</a>
+        </li>
+      </ul>
+    </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -67,7 +76,8 @@ Here's why:
 
 Of course, this is a trial version. In future updates, I will optimize the code to improve the gaming experience.
 
-<a id="built-with"></a> ### Built With
+<a id="built-with"></a> 
+### Built With
 * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 * ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
@@ -95,11 +105,13 @@ Of course, this is a trial version. In future updates, I will optimize the code 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 These are instructions on how to configure your project locally. To get a local copy up and running, follow these simple example steps.
 
+<a id="prerequisites"></a>
 ### Prerequisites
 These are the items needed to use the software and how to install them:
 * C++ compiler (for example, GCC or Clang)
 * Development environment (Visual Studio IDE)
 
+<a id="installation"></a>
 ### Installation
 _Below is an example of how to install and configure "El Molino" on your local machine._
 
@@ -128,7 +140,7 @@ you can compile the main file. Make sure you include all necessary files.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-***Contributing***
+<a id="contributing"></a>***Contributing***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 Contributions are what make the open source community an amazing place to learn, be inspired, and create. Any contribution you wish to make is very welcome!
 
@@ -141,6 +153,7 @@ Don't forget to give the project a star! Thanks for contributing!
 4. Push your changes to the branch (`git push origin feature/NewImprovement`).
 5. Open a pull request.
 
+<a id="top-contributors"></a>
 ### Top contributors:
 <div align="center">
   <a href="https://github.com/MichaelVL2023"><img src="https://avatars.githubusercontent.com/u/134979957?v=4" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; border: 2px solid #000;"/></a>
@@ -148,7 +161,7 @@ Don't forget to give the project a star! Thanks for contributing!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
-***Contact***
+<a id="contact"></a>***Contact***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <a href="mailto:leonardobravoricapa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
