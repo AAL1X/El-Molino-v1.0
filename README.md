@@ -51,7 +51,7 @@
       <a href="#contributing">Contributing</a>
       <ul>
         <li>
-          <a href="#top-contributors">Built With</a>
+          <a href="#top-contributors">Top Contributors</a>
         </li>
       </ul>
     </li>
