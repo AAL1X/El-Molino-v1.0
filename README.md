@@ -1,3 +1,4 @@
+<!-- SHIELDS -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <a id="readme-top"></a>
 <p align='center'> 
@@ -33,7 +34,8 @@
     <li>
       <a href="#about-the-proyect">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li>
+          <a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
@@ -65,14 +67,14 @@ Here's why:
 
 Of course, this is a trial version. In future updates, I will optimize the code to improve the gaming experience.
 
-### Built With
+<a id="built-with"></a> ### Built With
 * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 * ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 * ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-***Important Notices***
+<a id="important-notices"></a>***Important Notices***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 > [!NOTE]  
@@ -89,7 +91,7 @@ Of course, this is a trial version. In future updates, I will optimize the code 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-***Getting Started***
+<a id="getting-started"></a>***Getting Started***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 These are instructions on how to configure your project locally. To get a local copy up and running, follow these simple example steps.
 
